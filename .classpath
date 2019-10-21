@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Program Files/IBM/WebSphere/AppServer/profiles/AppSrv01/installedApps/SERV-TESTCORNode01Cell/WSRadicarDocumentoMulti2_war.ear/WSRadicarDocumentoMulti2.war/WEB-INF/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/IBM/WebSphere/AppServer/profiles/AppSrv01/installedApps/SERV-TESTCORNode01Cell/WSRadicarDocumentoMulti2_war.ear/WSRadicarDocumentoMulti2.war/WEB-INF/lib/LabelGenerator.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/IBM/WebSphere/AppServer/profiles/AppSrv01/installedApps/SERV-TESTCORNode01Cell/WSRadicarDocumentoMulti2_war.ear/WSRadicarDocumentoMulti2.war/WEB-INF/lib/LabelGenerator_Autonums1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/IBM/WebSphere/AppServer/profiles/AppSrv01/installedApps/SERV-TESTCORNode01Cell/WSRadicarDocumentoMulti2_war.ear/WSRadicarDocumentoMulti2.war/WEB-INF/lib/LabelGenerator_Modificatorsbck.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/IBM/WebSphere/AppServer/profiles/AppSrv01/installedApps/SERV-TESTCORNode01Cell/WSRadicarDocumentoMulti2_war.ear/WSRadicarDocumentoMulti2.war/WEB-INF/lib/LabelGenerator_Utils.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/IBM/WebSphere/AppServer/profiles/AppSrv01/installedApps/SERV-TESTCORNode01Cell/WSRadicarDocumentoMulti2_war.ear/WSRadicarDocumentoMulti2.war/WEB-INF/lib/jtds-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
