@@ -16,6 +16,7 @@ public class LabelGenerator
     
     public String GenerateLabel(final String template, final String[] params, final String autoNum) throws Exception {
         System.out.println("---------------");
+        
         String templatePattern = ConfigReader.readConfigEntry(template);
         if (templatePattern == null) {
             throw new Exception("Template: " + template + " could not be found.");
